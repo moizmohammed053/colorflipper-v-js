@@ -1,0 +1,93 @@
+body{
+    background-image:url("https://images.pexels.com/photos/1103970/pexels-photo-1103970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    min-width: 400px;
+    margin-right: 5px;
+}
+
+#input-el{
+    font-size: 17px;
+    width: 99%;
+    border:1px solid #5f9341;
+    padding-top:10px; 
+    margin-top: 5px;
+    margin-left: 5px;
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    font-style: unset;
+}
+
+#input-el:hover{
+    background-color: whitesmoke;
+}
+
+#input-btn{
+    background-color:#5f9341;
+    color:white;
+    font-size:15px; 
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    margin-top: 20px;
+    margin-left: 5px;
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    text-align: center;
+}
+
+/* #input-btn:hover{
+    background-color: white;
+    color:teal;
+    text-shadow: violet;
+} */
+
+ol{
+  list-style: none;
+  padding-left: 45px;
+  font-family: 'Urbanist', sans-serif;
+}
+
+li{
+    list-style: none;
+    padding-top:5px ;
+    font-size: 17px;
+}
+
+li a{
+    color:white
+}
+
+#head{
+    color:teal;
+    text-align: center;
+}
+
+#head2{
+    color:teal;
+    text-align: cente;
+    margin-bottom: 0px;
+}
+
+#delete-btn{
+    margin-left:5px;
+    background-color:white;
+    color:#5f9341;
+    font-size:15px; 
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 20px;
+    margin-left: 5px;
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    text-align: center;
+}
+
+#tab-btn{
+    margin-left:5px;
+    background-color:#5f9341;
+    color:white;
+    font-size:15px; 
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 20px;
+    margin-left: 5px;
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    text-align: center;
+}
